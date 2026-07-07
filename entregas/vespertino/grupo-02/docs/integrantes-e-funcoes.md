@@ -5,4 +5,4 @@
     Eric Leal: Desenvolvedor FrontEnd
     Rodrigo: 
     Guilherme Cavalcante: 
-    Guilherme Almeida:
+    Ryan Kaio: Desenvolvedor BackEnd
